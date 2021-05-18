@@ -3,4 +3,6 @@ public class awesomeTest {
     //green under staging area
     //grey .idea folder means ignored
     //normal color means committed no changes
+    //i just pulled new changes from github and i did not have locally
+    //now my project is in sync with remote repo
 }
