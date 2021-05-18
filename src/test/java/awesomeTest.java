@@ -5,4 +5,6 @@ public class awesomeTest {
     //normal color means committed no changes
     //i just pulled new changes from github and i did not have locally
     //now my project is in sync with remote repo
+    //adding more line
+    //addeing 1 line
 }
