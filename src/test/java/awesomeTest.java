@@ -7,4 +7,5 @@ public class awesomeTest {
     //now my project is in sync with remote repo
     //adding more line
     //addeing 1 line
+    //added 1 more line
 }
